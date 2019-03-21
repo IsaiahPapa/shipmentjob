@@ -1,0 +1,7 @@
+"AddonInfo"
+{
+	"name"				"CEServers Shipment"
+	"version"			"0.7.2"
+	"up_date"			"2016"
+	"author_name"		"Clix"
+}
