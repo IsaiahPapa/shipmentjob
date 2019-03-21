@@ -1,5 +1,5 @@
 # Shipment Job
-Shipment Job is a [Garry's Mod](https://gmod.facepunch.com/) addon for the gamemode [DarkRP](https://github.com/FPtje/DarkRP) that give players a interactive, fun, and rewarding way to make money ingame. There is an EXP system too!
+Shipment Job is a [Garry's Mod](https://gmod.facepunch.com/) addon for the gamemode [DarkRP](https://github.com/FPtje/DarkRP) that gives players a interactive, fun, and rewarding way to make money ingame. There's even an EXP system too!
 
 Project started circa 2016?
 
